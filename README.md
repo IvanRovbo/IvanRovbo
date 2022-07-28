@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IvanRovbo
 - 👀 I’m interested in programming
 - 🌱 am now studying at school number 1 in Dokshitsy!
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on programming 
 - 📫 How to reach me ...
 
 <!---
