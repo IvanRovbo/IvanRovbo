@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 am now studying at school number 1 in Dokshitsy!
 - 💞️ I’m looking to collaborate on programming 
-- 📫 How to reach me humber
+- 📫 phone number +375256822550 ! Email vanarovbo@gmail.com !
 
 <!---
 IvanRovbo/IvanRovbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
